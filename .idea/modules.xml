@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/idea02prj-0909.iml" filepath="$PROJECT_DIR$/idea02prj-0909.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news/news.iml" filepath="$PROJECT_DIR$/news/news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newsDemo/newsDemo.iml" filepath="$PROJECT_DIR$/newsDemo/newsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qqZone/qqZone.iml" filepath="$PROJECT_DIR$/qqZone/qqZone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soft2-jsp01/soft2-jsp01.iml" filepath="$PROJECT_DIR$/soft2-jsp01/soft2-jsp01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soft2-jsp02/soft2-jsp02.iml" filepath="$PROJECT_DIR$/soft2-jsp02/soft2-jsp02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

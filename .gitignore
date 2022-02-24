@@ -1,0 +1,6 @@
+# Project exclude paths
+/news/web/WEB-INF/class/
+/newsDemo/web/WEB-INF/classes/
+/out/
+/qqZone/web/WEB-INF/class/
+/soft2-jsp02/web/WEB-INF/classes/
